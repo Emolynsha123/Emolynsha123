@@ -14,9 +14,6 @@ My MSc thesis explored **deep learning for the design of solid polymer electroly
 
 I like understanding **why a model works**, and building physical or mathematical structure into it, rather than treating it as a black box.
 
-## 🧪 Projects
-
-- **[Emolynsha123-daily-reports](https://github.com/Emolynsha123/Emolynsha123-daily-reports)**: daily reports and notebooks from the PyPro-SCiDaS course.
 
 <!--
 Uncomment each line below once the repository exists on your account.
