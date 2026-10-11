@@ -33,7 +33,7 @@ Uncomment each line below once the repository exists on your account.
 
 - Optimal transport
 - Numerical optimization
-- Probability
+
 
 ## 💻 Tools
 
