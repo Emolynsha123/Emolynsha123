@@ -29,6 +29,7 @@ Uncomment each line below once the repository exists on your account.
 ## 🛠️ Currently learning
 
 - Optimal transport
+- Numerical Algebra
 - Numerical optimization
 
 
